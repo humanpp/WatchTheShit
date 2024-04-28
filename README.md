@@ -1,2 +1,2 @@
 # WatchTheShit
-Python shit code watcher.
+# 1.刚刚开始。
